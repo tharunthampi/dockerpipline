@@ -24,15 +24,3 @@ Docker images will be stored in AWS ECR.
 Aplication will be deployed in AWS ECS.
 
 
-## Pipeline Stages
-
-1. Tests
-
-2. Build an image
-
-3. Push the image to ECR
-
-4. Deploy the image
-
-
-## Notes
